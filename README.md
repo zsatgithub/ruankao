@@ -1,20 +1,9 @@
 # :同是天涯沦落人，相逢何必曾相识！
 
-2018年12月14日查询成绩后知道自己通过了系统架构设计师的考试（每科满分75，及格45分），特地记录一下。最终的成绩如下： 
-<div align="center">
-  <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/result.png" width=400 />
-    </kbd>
-   </div>
-
-我是在2018年9月份决定报名参加系统架构设计师考试，主要是想借此机会督促自己学习些除工作外的知识。准备了2个月，复习时间为周末，复习方式为看教学视频和真题练习。现将复习过程中整理的相关资料（涵盖历年真题和教学视频）分享给需要此课程资源的朋友：
 
 - **历年真题**
 
 包含自己整理的2009-2018年的综合知识、案例分析、论文（无范文）的真题以及答案详细解析，其中综合版是将综合知识和案例分析合并在一个文档中方便查看，文档全部为PDF格式。
-<div align="center">
-   <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/years.png"/>
-      </kbd>
-  </div>
 - **教学视频**
 [网盘地址](https://github.com/xxlllq/2018_system_architect/issues/1)，[在线播放地址](https://www.bilibili.com/video/av59116559)
 
@@ -26,5 +15,5 @@
 
 此答题卡为信息系统项目管理师答题卡示例，与系统架构设计师答题卡类似，系统架构设计师论文有四道可供选择，答题时填涂相应的题号即可。
 
-- 作者会实时更新历年真题资料，如有课程资源不明白的地方，可直接 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过QQ：**2434878746** 、邮箱：**2434878746@qq.com** 联系作者。
+- 联系作者 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过QQ：**2434878746** 、邮箱：**2434878746@qq.com** 。
  </div>
