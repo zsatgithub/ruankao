@@ -1,4 +1,4 @@
-# :100:系统架构设计师复习资料【欢迎加入和分享QQ交流群：746552968，群文件有丰富的教程和资料，二维码在本文最后】
+# :同是天涯沦落人，相逢何必曾相识！
 
 2018年12月14日查询成绩后知道自己通过了系统架构设计师的考试（每科满分75，及格45分），特地记录一下。最终的成绩如下： 
 <div align="center">
@@ -15,17 +15,6 @@
    <kbd><img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/years.png"/>
       </kbd>
   </div>
-
-- **下载方式**
-
-可一键下载本资源的压缩包，操作方式如下图所示：
-<div align="center">
- <kbd>
- <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/download.png" width=300 />
- </kbd> 
- </div>
-
-
 - **教学视频**
 [网盘地址](https://github.com/xxlllq/2018_system_architect/issues/1)，[在线播放地址](https://www.bilibili.com/video/av59116559)
 
@@ -37,15 +26,5 @@
 
 此答题卡为信息系统项目管理师答题卡示例，与系统架构设计师答题卡类似，系统架构设计师论文有四道可供选择，答题时填涂相应的题号即可。
 
-- 作者会实时更新历年真题资料，如有课程资源不明白的地方，可直接 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com** 联系作者。
-
--  QQ交流群746552968（创建于2019/06/21）： 
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=f205298d78e7a6a749bf60a7b66b432abf0aab3a2b6c5b070eb5b7da39d13ef2"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="系统架构设计师交流群" title="系统架构设计师交流群"></a>
-<div align="center">
- <kbd>
- <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/group.jpg" width=200 />
- </kbd> 
-  <kbd>
- <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/qqfile.png" width=400 />
- </kbd> 
+- 作者会实时更新历年真题资料，如有课程资源不明白的地方，可直接 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过QQ：**2434878746** 、邮箱：**2434878746@qq.com** 联系作者。
  </div>
